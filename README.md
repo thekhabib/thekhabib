@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend Developer | Pythonista | Clean Code Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Passionate+Backend+Developer;Python+Django+Lover;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Leetcode+Daily+Coder+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Passionate+Backend+Developer;Python+Django+Lover+%E2%9D%A4%EF%B8%8F;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Leetcode+Daily+Coder+%F0%9F%93%96" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  ![snake gif](https://github.com/thekhabib/thekhabib/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=thekhabib&show_icons=true&theme=tokyonight&include_all_commits=true)
 </p>
 
 ---
