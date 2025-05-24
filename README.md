@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Khabib Toshev</h1>
-<h3 align="center">Software Engineer | Backend Developer | Pythonista | Clean Code Enthusiast</h3>
+<h3 align="center"> 💻 Software Engineer | Backend Developer | Pythonista | Clean Code Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Passionate+Backend+Developer+%F0%9F%94%A5;Python+Django+Lover+%E2%9D%A4%EF%B8%8F;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Leetcode+Daily+Coder+%F0%9F%93%96" alt="Typing SVG" />
