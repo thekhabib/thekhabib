@@ -19,7 +19,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,algorithm,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,gitlab,github,linux,cpp" />
 </p>
 
 ---
@@ -32,9 +32,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thekhabib&theme=react-dark" width="100%" />
+  ![snake gif](https://github.com/thekhabib/thekhabib/blob/output/github-contribution-grid-snake.svg)
 </p>
-
 ---
 
 ### 🏁 Let's Connect!
