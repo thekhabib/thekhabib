@@ -34,6 +34,7 @@
 <p align="center">
   ![snake gif](https://github.com/thekhabib/thekhabib/blob/output/github-contribution-grid-snake.svg)
 </p>
+
 ---
 
 ### 🏁 Let's Connect!
