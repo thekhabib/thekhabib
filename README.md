@@ -55,3 +55,57 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/thekhabib)
 
 ---
+
+## 👋 Hi, I'm Khabib Toshev
+
+### 💻 Backend Developer | Pythonista | Clean Code Enthusiast
+
+---
+
+### 👨‍💻 About Me
+
+> 🧠 I'm currently working on backend systems using **Python**, **Django**, **DRF**, **Celery**, and **Redis**
+>
+> 💡 I enjoy exploring design patterns, clean architecture & performance optimizations
+>
+> 🧩 Solving LeetCode problems in Python – [Visit My Profile](https://leetcode.com/u/thekhabib)
+>
+> 📫 How to reach me: [LinkedIn](https://linkedin.com/in/khabib-toshev)
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,celery,docker,git,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thekhabib&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thekhabib&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thekhabib&theme=react-dark" width="100%" />
+</p>
+
+---
+
+### 📌 LeetCode Repository Idea
+
+📁 `leet-solutions-python`
+
+A repository to store and share my LeetCode solutions written in Python with clear explanations and optimal complexity.
+
+* 🚀 Optimized for readability & performance
+* 🧠 Notes included with each solution
+* 📈 Sample title: `✅ 98% Memory Efficient Solution for FindLonely`
+
+---
+
+*Thanks for visiting! ⭐ Feel free to follow or connect with me!*
+
