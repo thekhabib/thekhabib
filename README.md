@@ -44,9 +44,6 @@
 - 🔹 [`leetcode-python-solutions`](https://github.com/thekhabib/leetcode-python-solutions)  
   > Memory-optimized and well-documented LeetCode solutions in Python.
 
-- 🔹 [`pagesProject`](https://github.com/thekhabib/pagesProject)  
-  > Full-featured Django app with pagination, filtering, and search support.
-
 - 🔹 [`News_Project`](https://github.com/thekhabib/News_Project)  
   > News website built with Django and JavaScript.
 
