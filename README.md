@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on backend systems using **Python**, **Django**, **DRF**, **Celery**, and **Redis**
 - 💡 I enjoy exploring design patterns, clean architecture & performance optimizations
 - 🧠 Solving LeetCode problems in Python – [Visit My Profile](https://leetcode.com/u/thekhabib)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/khabib-toshev)
