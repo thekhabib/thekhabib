@@ -156,12 +156,14 @@ A backend system for managing shop/stall rentals in a market. Handles contracts,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekhabib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=thekhabib&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=thekhabib&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekhabib&theme=tokyonight" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekhabib&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhabib&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhabib&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhabib&theme=tokyonight&utcOffset=5" width="32%" />
 </div>
 
 ---
