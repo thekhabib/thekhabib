@@ -81,7 +81,7 @@ A production-ready system managing multiple libraries with isolated data per ten
 
 **Stack:** `Django 5` `PostgreSQL` `Redis` `Celery` `Docker` `GitLab CI/CD`
 
-[![Repo](https://img.shields.io/badge/GitLab-View%20Repo-FC6D26?style=flat-square&logo=gitlab)](https://gitlab.com/solijon_khaydarov/sifat-library)
+![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,7 @@ A government-level platform for managing industrial zones, entrepreneurs, and pr
 
 **Stack:** `Django 5` `PostgreSQL` `Redis` `Docker` `CKEditor5`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/thekhabib/navoiy-sanoat)
+![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
 </td>
 </tr>
@@ -125,7 +125,7 @@ A feature-rich Telegram bot with 15+ image manipulation tools, combining classic
 
 **Stack:** `Aiogram 3` `OpenAI GPT-4o` `rembg` `MoviePy` `Docker`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/thekhabib/image-ai-bot)
+![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
 </td>
 <td width="50%" valign="top">
@@ -145,7 +145,7 @@ A backend system for managing shop/stall rentals in a market. Handles contracts,
 
 **Stack:** `Django 5` `PostgreSQL` `Celery` `Docker`
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/thekhabib/gulistan-bazaar)
+![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
 </td>
 </tr>
@@ -157,7 +157,7 @@ A backend system for managing shop/stall rentals in a market. Handles contracts,
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thekhabib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thekhabib&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=thekhabib&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
