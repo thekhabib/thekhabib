@@ -68,8 +68,8 @@ class KhabibToshev:
 
 ## 🚧 Currently Working On
 
-- 💼 Backend Engineer at **MyRehab** — multi-tenant medical platform (Python / FastAPI / PostgreSQL)
-- 🎓 **Smart Warehouse** — master's diploma, IoT fire-safety system (FastAPI + ESP32 + MQTT) · *WIP, public release planned*
+- 💼 Backend Engineer at **Steppe Venture Builders** — building **MyRehab**, multi-tenant medical platform (Python / FastAPI / PostgreSQL); also light frontend
+- 🛠️ **Smart Warehouse** *(side contract)* — IoT fire-safety system (FastAPI + ESP32 + MQTT) · *WIP, public release planned*
 - 🌱 Deepening **system design**, **PostgreSQL internals**, and **distributed patterns**
 - 🧠 LeetCode — Python, focused on graphs & DP
 - 🤝 Open to freelance contracts and OSS collaboration
