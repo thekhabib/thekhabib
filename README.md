@@ -22,18 +22,15 @@
 
 ```python
 class KhabibToshev:
-    def __init__(self):
-        self.role        = "Backend Engineer"
-        self.location    = "Tashkent, Uzbekistan 🇺🇿"
-        self.languages   = ["uz", "en", "ru"]
-        self.focus       = ["Backend", "REST APIs", "Clean Architecture"]
-        self.stack       = ["Python", "Django", "FastAPI", "PostgreSQL", "Redis", "Docker"]
-        self.currently   = "Shipping production Django services with CI/CD"
-        self.philosophy  = "Code that is easy to read, test, and maintain"
-        self.open_to     = ["Backend roles", "Freelance", "Open source"]
+    """Backend Engineer • Tashkent, UZ 🇺🇿"""
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something solid.")
+    focus       = ["Multi-tenant SaaS", "REST APIs", "Async pipelines"]
+    obsessions  = ["Clean architecture", "PostgreSQL internals", "DX"]
+    learning    = ["System design at scale", "Distributed patterns"]
+    fun_fact    = "Refactor while debugging — both go faster"
+
+    def hire_me(self):
+        return "khabibtoshev@gmail.com"
 ```
 
 ---
