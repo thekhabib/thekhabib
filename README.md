@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:364f6b&height=220&section=header&text=Khabib%20Toshev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20FastAPI&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Backend+Engineer+from+Tashkent+%F0%9F%87%BA%F0%9F%87%BF;Production-grade+Django+%2B+CI%2FCD;REST+APIs+%E2%80%A2+Clean+Architecture;Python+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Daily+LeetCode+grinder+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Backend+Engineer+from+Tashkent+%F0%9F%87%BA%F0%9F%87%BF;Production-grade+Django+%2B+CI%2FCD;REST+APIs+%E2%80%A2+Clean+Architecture;Python+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Multi-tenant+systems+%26+async+pipelines" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,6 @@ class KhabibToshev:
         self.focus       = ["Backend", "REST APIs", "Clean Architecture"]
         self.stack       = ["Python", "Django", "FastAPI", "PostgreSQL", "Redis", "Docker"]
         self.currently   = "Shipping production Django services with CI/CD"
-        self.daily       = "LeetCode • DSA in Python"
         self.philosophy  = "Code that is easy to read, test, and maintain"
         self.open_to     = ["Backend roles", "Freelance", "Open source"]
 
@@ -177,16 +176,18 @@ Backend for shop/stall rentals — contracts, payment schedules, overdue trackin
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=thekhabib&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thekhabib&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhabib&theme=tokyonight" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekhabib&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhabib&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhabib&theme=tokyonight&utcOffset=5" width="32%" />
+</div>
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/thekhabib/thekhabib/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -202,31 +203,22 @@ Backend for shop/stall rentals — contracts, payment schedules, overdue trackin
 
 ---
 
-## 🐍 Contribution Graph
+## 📫 Let's Connect
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/thekhabib/thekhabib/output/github-contribution-grid-snake-dark.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khabib%20Toshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khabib-toshev)
+[![Telegram](https://img.shields.io/badge/Telegram-@habib__toshev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/habib_toshev)
+[![Gmail](https://img.shields.io/badge/Gmail-khabibtoshev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khabibtoshev@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-thekhabib-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/thekhabib)
 
 </div>
-
----
-
-## 🧠 LeetCode Progress
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/thekhabib?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/thekhabib)
-
-</div>
-
----
 
 <div align="center">
 
 ### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 
-⭐ Found something interesting? Follow or connect — let's build solid backends together.
+⭐ Found this interesting? Follow or connect — let's build solid backends together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:364f6b,50:24283b,100:1a1b27&height=120&section=footer" width="100%"/>
 
