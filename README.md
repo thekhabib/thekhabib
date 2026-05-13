@@ -9,10 +9,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khabib%20Toshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khabib-toshev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-thekhabib-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/thekhabib)
 [![Telegram](https://img.shields.io/badge/Telegram-@habib__toshev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/habib_toshev)
 [![Gmail](https://img.shields.io/badge/Gmail-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khabibtoshev@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=thekhabib&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)](https://github.com/thekhabib)
 
 </div>
 
@@ -45,20 +43,17 @@ class KhabibToshev:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Databases & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Async, Messaging & Tooling**
@@ -66,8 +61,6 @@ class KhabibToshev:
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -173,14 +166,7 @@ Backend for shop/stall rentals — contracts, payment schedules, overdue trackin
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thekhabib&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhabib&theme=tokyonight" width="49%" />
-
-</div>
+## 🐍 Contributions
 
 <div align="center">
 
@@ -188,8 +174,7 @@ Backend for shop/stall rentals — contracts, payment schedules, overdue trackin
 
 </div>
 
----
-
+<!--
 ## 🏆 Trophies
 
 <div align="center">
@@ -197,6 +182,9 @@ Backend for shop/stall rentals — contracts, payment schedules, overdue trackin
 [![trophy](https://github-profile-trophy.vercel.app/?username=thekhabib&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+-->
 
 ---
 
