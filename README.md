@@ -1,11 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:364f6b&height=200&section=header&text=Khabib%20Toshev&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Django&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:364f6b&height=220&section=header&text=Khabib%20Toshev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20FastAPI&descAlignY=58&descAlign=50" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Backend+Engineer+from+Tashkent+%F0%9F%87%BA%F0%9F%87%BF;Production-grade+Django+%2B+CI%2FCD;REST+APIs+%E2%80%A2+Clean+Architecture;Python+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Daily+LeetCode+grinder+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khabib%20Toshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khabib-toshev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-thekhabib-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/thekhabib)
-[![Gmail](https://img.shields.io/badge/Gmail-contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khabibtoshev@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=thekhabib&style=for-the-badge&color=364f6b)](https://github.com/thekhabib)
+[![Telegram](https://img.shields.io/badge/Telegram-@habib__toshev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/habib_toshev)
+[![Gmail](https://img.shields.io/badge/Gmail-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khabibtoshev@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=thekhabib&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)](https://github.com/thekhabib)
 
 </div>
 
@@ -14,48 +21,68 @@
 ## 🧑‍💻 About Me
 
 ```python
-developer = {
-    "name":       "Khabib Toshev",
-    "location":   "Tashkent, Uzbekistan 🇺🇿",
-    "focus":      ["Backend Development", "REST API Design", "Clean Architecture"],
-    "stack":      ["Python", "Django", "FastAPI", "PostgreSQL", "Redis", "Docker"],
-    "currently":  "Building production-grade Django services with CI/CD pipelines",
-    "daily":      "LeetCode grinder 🧠 — solving DSA problems in Python",
-    "goal":       "Write code that is easy to read, test, and maintain",
-    "open_to":    "Backend roles, freelance projects, open source collaboration",
-}
+class KhabibToshev:
+    def __init__(self):
+        self.role        = "Backend Engineer"
+        self.location    = "Tashkent, Uzbekistan 🇺🇿"
+        self.languages   = ["uz", "en", "ru"]
+        self.focus       = ["Backend", "REST APIs", "Clean Architecture"]
+        self.stack       = ["Python", "Django", "FastAPI", "PostgreSQL", "Redis", "Docker"]
+        self.currently   = "Shipping production Django services with CI/CD"
+        self.daily       = "LeetCode • DSA in Python"
+        self.philosophy  = "Code that is easy to read, test, and maintain"
+        self.open_to     = ["Backend roles", "Freelance", "Open source"]
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something solid.")
 ```
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Databases & Caching
+**Databases & Caching**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps & Tools
+**DevOps & Infrastructure**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Other
+**Async, Messaging & Tooling**
+
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+## 🚧 Currently Working On
+
+- 🔭 Production-grade Django backends with multi-tenant architecture
+- 🌱 Deepening **system design**, **PostgreSQL internals**, and **async patterns**
+- 🧠 LeetCode every day — Python, focused on graphs & DP
+- 🤝 Open to backend roles, freelance contracts, and OSS contributions
 
 ---
 
@@ -68,18 +95,17 @@ developer = {
 ### 📚 Sifat Library
 **Multi-tenant library management platform**
 
-A production-ready system managing multiple libraries with isolated data per tenant. Members link their Telegram accounts via bot and receive real-time notifications.
+Production system for multiple libraries — isolated tenants, Telegram-linked members, real-time notifications.
 
-**Key features:**
-- 🏛️ Multi-tenant: separate domain, members & settings per library
-- 📱 Telegram bot integration for member linking & notifications
-- ⏰ Celery Beat for automated overdue tracking
-- 📊 Daily/monthly statistics dashboard
-- 🌍 4-language support (uz, cy, ru, en)
-- 🔐 JWT auth + SMS OTP via Eskiz.uz
-- 🚀 GitLab CI/CD pipeline with Docker
+- 🏛️ Multi-tenant: domain, members, settings per library
+- 📱 Telegram bot for linking & alerts
+- ⏰ Celery Beat — automated overdue tracking
+- 📊 Daily / monthly stats dashboard
+- 🌍 4 languages (uz / cy / ru / en)
+- 🔐 JWT + SMS OTP via Eskiz.uz
+- 🚀 GitLab CI/CD with Docker
 
-**Stack:** `Django 5` `PostgreSQL` `Redis` `Celery` `Docker` `GitLab CI/CD`
+`Django 5` `PostgreSQL` `Redis` `Celery` `Docker` `GitLab CI/CD`
 
 ![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
@@ -89,18 +115,17 @@ A production-ready system managing multiple libraries with isolated data per ten
 ### 🏭 Navoiy Sanoat
 **Industrial zone management REST API**
 
-A government-level platform for managing industrial zones, entrepreneurs, and projects in Navoiy region. Built with performance and multilingual support at its core.
+Government-level platform for zones, entrepreneurs, and projects in Navoiy region. Performance & i18n first.
 
-**Key features:**
-- 🏗️ Hierarchical data: Zone → Entrepreneur → Project
-- ⚡ Redis cache with smart signal-based invalidation
+- 🏗️ Hierarchical: Zone → Entrepreneur → Project
+- ⚡ Redis cache + signal-based invalidation
 - 🖼️ Generic FK image system (one model, any object)
-- 🌍 4-language i18n (uz, en, ru, cy)
+- 🌍 4-language i18n
 - 🛡️ Rate throttling for public endpoints
-- 🎨 Custom Jazzmin admin panel
-- 📄 Swagger API documentation
+- 🎨 Custom Jazzmin admin
+- 📄 Swagger docs
 
-**Stack:** `Django 5` `PostgreSQL` `Redis` `Docker` `CKEditor5`
+`Django 5` `PostgreSQL` `Redis` `Docker` `CKEditor5`
 
 ![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
@@ -110,20 +135,19 @@ A government-level platform for managing industrial zones, entrepreneurs, and pr
 <td width="50%" valign="top">
 
 ### 🖼️ Image AI Bot
-**Telegram bot powered by AI image processing**
+**Telegram bot — 15+ AI image tools**
 
-A feature-rich Telegram bot with 15+ image manipulation tools, combining classic image processing with cutting-edge AI models.
+Combines classic image processing with modern AI models in one bot.
 
-**Key features:**
-- 🧠 GPT-4o for text extraction, sales copy & image captioning
-- 🎨 AI style transfer (Ghibli, Anime, Watercolor, 3D Clay)
-- 🧹 Background removal with `rembg`
-- 🏪 Marketplace product card generation via KIE AI
-- 🎤 Voice-to-text (Faster Whisper) for prompt input
-- 📱 QR code generator with custom image overlays
-- 🎞️ Slideshow video generation from images
+- 🧠 GPT-4o — text extraction, copy, captioning
+- 🎨 AI style transfer (Ghibli / Anime / Watercolor / 3D Clay)
+- 🧹 Background removal (`rembg`)
+- 🏪 Marketplace product cards via KIE AI
+- 🎤 Voice-to-text (Faster Whisper)
+- 📱 QR generator with image overlay
+- 🎞️ Slideshow video from images
 
-**Stack:** `Aiogram 3` `OpenAI GPT-4o` `rembg` `MoviePy` `Docker`
+`Aiogram 3` `OpenAI GPT-4o` `rembg` `MoviePy` `Docker`
 
 ![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
@@ -131,19 +155,18 @@ A feature-rich Telegram bot with 15+ image manipulation tools, combining classic
 <td width="50%" valign="top">
 
 ### 🏪 Gulistan Bazaar
-**Market rental contract management system**
+**Market rental contract system**
 
-A backend system for managing shop/stall rentals in a market. Handles contracts, auto-generates payment schedules, and tracks overdue payments via Celery.
+Backend for shop/stall rentals — contracts, payment schedules, overdue tracking.
 
-**Key features:**
 - 📋 Daily & monthly rental contracts
-- 📅 Auto-generated payment schedules via Django signals
+- 📅 Auto-generated payment schedules (Django signals)
 - 💳 Payment tracking with cascade updates
-- ⚠️ Celery Beat for overdue detection
+- ⚠️ Celery Beat — overdue detection
 - 🏬 Unit status (Empty / Pending / Paid / Overdue)
 - 📖 Full Swagger documentation
 
-**Stack:** `Django 5` `PostgreSQL` `Celery` `Docker`
+`Django 5` `PostgreSQL` `Celery` `Docker`
 
 ![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
@@ -156,15 +179,37 @@ A backend system for managing shop/stall rentals in a market. Handles contracts,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thekhabib&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekhabib&theme=tokyonight" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=thekhabib&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thekhabib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhabib&theme=tokyonight&hide_border=true" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhabib&theme=tokyonight&hide_border=true" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhabib&theme=tokyonight&utcOffset=5&hide_border=true" width="32%" />
+
 </div>
 
+---
+
+## 🏆 Trophies
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhabib&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhabib&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhabib&theme=tokyonight&utcOffset=5" width="32%" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thekhabib&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/thekhabib/thekhabib/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> Snake animatsiyasi uchun: `.github/workflows/snake.yml` qoʻshing — [Platane/snk](https://github.com/Platane/snk) action.
 
 ---
 
@@ -180,10 +225,10 @@ A backend system for managing shop/stall rentals in a market. Handles contracts,
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 
-⭐ If you find my work interesting, feel free to follow or connect!
+⭐ Found something interesting? Follow or connect — let's build solid backends together.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:364f6b,100:1a1b27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:364f6b,50:24283b,100:1a1b27&height=120&section=footer" width="100%"/>
 
 </div>
