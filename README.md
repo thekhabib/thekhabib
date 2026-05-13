@@ -79,10 +79,11 @@ class KhabibToshev:
 
 ## 🚧 Currently Working On
 
-- 🔭 Production-grade Django backends with multi-tenant architecture
-- 🌱 Deepening **system design**, **PostgreSQL internals**, and **async patterns**
+- 💼 Backend Engineer at **myRehab** — multi-tenant medical platform (Python / FastAPI / PostgreSQL)
+- 🎓 **Smart Warehouse** — master's diploma, IoT fire-safety system (FastAPI + ESP32 + MQTT) · *WIP, public release planned*
+- 🌱 Deepening **system design**, **PostgreSQL internals**, and **distributed patterns**
 - 🧠 LeetCode every day — Python, focused on graphs & DP
-- 🤝 Open to backend roles, freelance contracts, and OSS contributions
+- 🤝 Open to freelance contracts and OSS collaboration
 
 ---
 
@@ -181,10 +182,10 @@ Backend for shop/stall rentals — contracts, payment schedules, overdue trackin
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=thekhabib&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=thekhabib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thekhabib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thekhabib&theme=tokyonight&hide_border=true" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thekhabib&theme=tokyonight&hide_border=true" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekhabib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekhabib&theme=tokyonight&utcOffset=5&hide_border=true" width="32%" />
 
 </div>
@@ -195,7 +196,7 @@ Backend for shop/stall rentals — contracts, payment schedules, overdue trackin
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thekhabib&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thekhabib&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -208,8 +209,6 @@ Backend for shop/stall rentals — contracts, payment schedules, overdue trackin
 ![snake gif](https://raw.githubusercontent.com/thekhabib/thekhabib/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> Snake animatsiyasi uchun: `.github/workflows/snake.yml` qoʻshing — [Platane/snk](https://github.com/Platane/snk) action.
 
 ---
 
