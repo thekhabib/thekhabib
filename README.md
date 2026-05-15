@@ -124,21 +124,22 @@ Government-level platform for zones, entrepreneurs, and projects in Navoiy regio
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ Image AI Bot
-**Telegram bot — 15+ AI image tools**
+### 🩺 MyRehab
+**Multi-tenant medical rehab platform** *(current work)*
 
-Combines classic image processing with modern AI models in one bot.
+Production platform built at **Steppe Venture Builders**. AI-assisted treatment plans with safety verification, multi-tenant clinic isolation, HIPAA-adjacent posture.
 
-- 🧠 GPT-4o — text extraction, copy, captioning
-- 🎨 AI style transfer (Ghibli / Anime / Watercolor / 3D Clay)
-- 🧹 Background removal (`rembg`)
-- 🏪 Marketplace product cards via KIE AI
-- 🎤 Voice-to-text (Faster Whisper)
-- 📱 QR generator with image overlay
-- 🎞️ Slideshow video from images
+- 🏥 Multi-tenant clinic isolation — per-clinic data, JWT + `X-Clinic-Slug` context
+- 🧠 AI plan generation — Anthropic Claude primary, OpenAI fallback
+- 🛡️ Safety fortress — drug interactions, contraindications, dose validation
+- 🌍 Trilingual content delivery (EN / RU / UZ)
+- 🔐 Encrypted PHI at rest, audit trails per sensitive action
+- 📦 Clean architecture — domain → application → infrastructure
+- 🚀 Docker + Railway deployment, GitHub Actions CI
 
-`Aiogram 3` `OpenAI GPT-4o` `rembg` `MoviePy` `Docker`
+`FastAPI` `PostgreSQL` `Redis` `SQLAlchemy` `Alembic` `Anthropic Claude` `Docker`
 
+[![Live](https://img.shields.io/badge/Live-myrehab.uz-7AA2F7?style=flat-square&logo=googlechrome&logoColor=white)](https://myrehab.uz)
 ![Private](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github)
 
 </td>
